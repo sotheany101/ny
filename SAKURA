@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+
+table, tr, th, td {border: 2px solid;}
+
+</style>
+  
+  <body>
+  <title>SAKURA Shop</title>
+  <table>
+    <tr>
+      <td>ទំនិញកូនក្មេង</td>
+      <td>
+     ទំនិញបុរស នារី
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.google.com/search/about-this-image?img=H4sIAAAAAAAA_wEYAOf_ChYI167AqMfhufPFARC04pDOyJav3JAB6EOqjhgAAAA%3D&q=https:%2F%2Fwww.pinterest.com%2Fpin%2F102597697754602189%2F&ctx=iv&hl=en&sa=X&ved=0CAsQg4ILahgKEwjYysOthvWLAxUAAAAAHQAAAAAQrQE&client=mobilesearchapp&cs=0&gsas=1&v=350.1.712346859" alt="dress"
+      </td>
+    </tr>
+  </table>
+  
+  </body>
+</html> 
